@@ -9,6 +9,9 @@ My name is Andrei and I am a computer science student.
     <a href="mailto:nicolaev.andrei09@gmail.com">
         <img alt="Gmail"
             src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+    <a href="https://www.linkedin.com/in/andrei-ionut-nicolaev-31a686276/">
+        <img alt="Linkedin"
+            src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 📊 Github stats
 <p>
@@ -38,24 +41,26 @@ My name is Andrei and I am a computer science student.
             src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
     </a>
     <a href="#">
-        <img alt="Java"
-            src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-    </a>
-    <a href="#">
-        <img alt="C#"
-            src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-    </a>
-    <a href="#">
-        <img alt="Python"
-            src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-    </a>
-    <a href="#">
-        <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
+        <img alt="TypeScript"
+            src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
     </a>
     <a href="#">
         <img alt="C++"
             src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
     </a>
+    <a href="#">
+        <img alt="C#"
+            src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+    </a>
+     <a href="#"> 
+        <img alt="Java"
+            src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+    </a>
+    <a href="#">
+        <img alt="Python"
+            src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    </a>
+
 </p>
 
 
@@ -70,6 +75,10 @@ My name is Andrei and I am a computer science student.
     <a href="#">
         <img alt="Express.JS"
             src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+    </a>
+    <a href="#">
+        <img alt=".NET"
+            src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
     </a>
     <a href="#">
         <img alt="Bootstrap 5"
