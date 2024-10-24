@@ -85,10 +85,6 @@ My name is Andrei and I am a computer science student.
         <img alt="Express.JS"
             src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
     </a>
-    <a href="#">
-        <img alt="Bootstrap 5"
-            src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-    </a>
 </p>
 
 ### Databases
