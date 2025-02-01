@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Andrei and I am a computer science student.
+My name is Andrei and I am a computer science enthusiast with a strong interest in new technologies.
 
 ## 🙋‍♂️ Connect with me
 
